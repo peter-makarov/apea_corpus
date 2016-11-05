@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-30" DOCID="APW_ENG_20031030.0363">
+  <event_mention ID="T2">
+    <anchor>
+      <charseq START="50" END="56">threat</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T1">
+      <charseq START="0" END="9">Frankfurt</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T5">
+    <anchor>
+      <charseq START="168" END="174">threat</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T4">
+      <charseq START="146" END="154">Thursday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="81" END="90">Frankfurt</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="246" END="252">threat</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="261" END="274">before 2 p.m.</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Political violence</action_form>
+    <location>Germany</location>
+    <date_range>
+      <start>2003-10-30</start>
+      <end>2003-10-30</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T2"/>
+    <link REFID="T5"/>
+    <link REFID="T6"/>
+  </event>
+</document>

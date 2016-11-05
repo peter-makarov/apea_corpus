@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-23" DOCID="AFP_ENG_20030923.0170">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="15" END="21">strike</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="48" END="53">Italy</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="6" END="13">drivers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="76" END="82">strike</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="159" END="166">Tuesday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T6">
+      <charseq START="150" END="155">Italy</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T5">
+      <charseq START="92" END="99">drivers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="329" END="335">called</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T10">
+      <charseq START="352" END="368">Monday to Friday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T11">
+      <charseq START="383" END="418">government plans for their industry</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T9">
+      <charseq START="319" END="327">Fita-Cna</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T12">
+    <anchor>
+      <charseq START="696" END="700">took</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Size" ID="T13">
+      <charseq START="659" END="695">80 percent of the country's truckers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Strike</action_form>
+    <location>Italy</location>
+    <date_range>
+      <start>2003-09-22</start>
+      <end>2003-09-26</end>
+    </date_range>
+    <actors>
+      <actor>Trade union</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+      <issue>Economic protection &amp; regulation</issue>
+    </issues>
+    <size/>
+    <comment/>
+  </event>
+</document>

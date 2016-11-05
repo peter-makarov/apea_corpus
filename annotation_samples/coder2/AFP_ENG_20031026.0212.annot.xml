@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-26" DOCID="AFP_ENG_20031026.0212">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="134" END="139">brawl</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T5">
+      <charseq START="111" END="117">Sunday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T4">
+      <charseq START="199" END="206">Swedish</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="148" END="157">neo-Nazis</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T3">
+      <charseq START="162" END="174">left-wingers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="287" END="294">clashes</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T8">
+      <charseq START="332" END="367">the building of a mosque in Vaexjoe</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T9">
+      <charseq START="360" END="367">Vaexjoe</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="303" END="312">neo-Nazis</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T11">
+      <charseq START="404" END="417">demonstrators</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T10">
+      <charseq START="372" END="387">several hundred</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T12">
+    <anchor>
+      <charseq START="30" END="37">rioting</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T14">
+      <charseq START="43" END="49">mosque</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T13">
+      <charseq START="17" END="23">Sweden</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Political violence</action_form>
+    <location>Sweden</location>
+    <date_range>
+      <start>2003-10-26</start>
+      <end>2003-10-26</end>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+      <actor>Extreme-right supporters</actor>
+    </actors>
+    <issues>
+      <issue>For immigration</issue>
+      <issue>Against immigration</issue>
+    </issues>
+    <size>100-999 people</size>
+    <comment/>
+  </event>
+</document>

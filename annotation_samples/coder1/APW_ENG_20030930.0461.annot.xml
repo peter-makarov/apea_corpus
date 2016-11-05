@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-30" DOCID="APW_ENG_20030930.0461">
+  <event_mention ID="T2">
+    <anchor>
+      <charseq START="527" END="533">strike</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T4">
+      <charseq START="578" END="584">Monday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T5">
+      <charseq START="593" END="620">far-reaching liberalization</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="560" END="574">European Union</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T1">
+      <charseq START="498" END="505">workers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="819" END="825">strike</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T7">
+      <charseq START="792" END="801">Zeebrugge</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T8">
+      <charseq START="747" END="758">dockworkers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T10">
+    <anchor>
+      <charseq START="950" END="956">strike</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T9">
+      <charseq START="878" END="884">Monday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T11">
+      <charseq START="903" END="927">Spain to the Netherlands</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T12">
+      <charseq START="886" END="897">dockworkers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T13">
+    <anchor>
+      <charseq START="969" END="982">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T14">
+      <charseq START="986" END="995">Rotterdam</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T16">
+      <charseq START="1040" END="1047">workers</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T15">
+      <charseq START="1024" END="1033">some 8,00</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Strike</action_form>
+    <location>Europe</location>
+    <date_range>
+      <start>2003-09-29</start>
+      <end>2003-09-29</end>
+    </date_range>
+    <actors>
+      <actor>Occupational group</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+      <issue>Economic protection &amp; regulation</issue>
+    </issues>
+    <size/>
+    <comment/>
+    <link REFID="T2"/>
+    <link REFID="T10"/>
+  </event>
+  <event ID="2">
+    <action_form>Strike</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2003-09-30</start>
+      <end>2003-09-30</end>
+    </date_range>
+    <actors>
+      <actor>Occupational group</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+      <issue>Economic protection &amp; regulation</issue>
+    </issues>
+    <size/>
+    <comment/>
+    <link REFID="T6"/>
+  </event>
+  <event ID="3">
+    <action_form>Demonstration</action_form>
+    <location>Netherlands</location>
+    <date_range>
+      <start>2003-09-29</start>
+      <end>2003-09-29</end>
+    </date_range>
+    <actors>
+      <actor>Occupational group</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+      <issue>Economic protection &amp; regulation</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T13"/>
+  </event>
+</document>

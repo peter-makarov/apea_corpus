@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-04" DOCID="AFP_ENG_20031004.0428">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="1423" END="1429">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T4">
+      <charseq START="1479" END="1483">1993</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="1469" END="1475">London</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="1449" END="1455">youths</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Gruesome violence</action_form>
+    <location>United Kingdom</location>
+    <date_range>
+      <start>2000-01-01</start>
+      <end>2015-12-31</end>
+    </date_range>
+    <actors/>
+    <issues>
+      <issue>Against immigration</issue>
+    </issues>
+    <size/>
+    <comment>Date: 1993. Issue: against ethnic minority but not anti-immigration. </comment>
+  </event>
+</document>

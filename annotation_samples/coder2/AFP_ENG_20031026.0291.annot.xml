@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-26" DOCID="AFP_ENG_20031026.0291">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="22" END="29">disturb</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="54" END="60">French</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="11" END="21">supporters</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="184" END="193">disturbed</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="166" END="172">Sunday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T6">
+      <charseq START="221" END="226">Paris</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T5">
+      <charseq START="117" END="127">supporters</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T12">
+      <charseq START="114" END="116">28</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="340" END="345">burst</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T9">
+      <charseq START="315" END="328">demonstrators</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T11">
+    <anchor>
+      <charseq START="922" END="929">shouted</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T10">
+      <charseq START="873" END="887">National Front</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Confrontational non-violent action</action_form>
+    <location>France</location>
+    <date_range>
+      <start>2003-10-26</start>
+      <end>2003-10-26</end>
+    </date_range>
+    <actors>
+      <actor>Political party</actor>
+      <actor>Extreme-right supporters</actor>
+    </actors>
+    <issues/>
+    <size>10-49 people</size>
+    <comment/>
+  </event>
+</document>

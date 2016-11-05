@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-10" DOCID="AFP_ENG_20030910.0190">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="382" END="396">demonstrations</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="446" END="452">London</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T3">
+    <anchor>
+      <charseq START="521" END="529">chaining</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T4">
+      <charseq START="458" END="468">protesters</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T5">
+      <charseq START="454" END="457">Two</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="718" END="725">impeded</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="778" END="786">cyclists</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T11">
+      <charseq START="735" END="745">protesters</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T8">
+      <charseq START="758" END="774">100-strong group</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T9">
+    <anchor>
+      <charseq START="62" END="66">demo</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T10">
+      <charseq START="49" END="56">British</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Demonstration</action_form>
+    <location>United Kingdom</location>
+    <date_range>
+      <start>2003-09-08</start>
+      <end>2003-09-14</end>
+      <approximate/>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T1"/>
+    <link REFID="T9"/>
+  </event>
+  <event ID="2">
+    <action_form>Occupation / Blockade</action_form>
+    <location>United Kingdom</location>
+    <date_range>
+      <start>2003-09-08</start>
+      <end>2003-09-14</end>
+      <approximate/>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size>50-99 people</size>
+    <comment/>
+    <link REFID="T3"/>
+    <link REFID="T9"/>
+    <link REFID="T6"/>
+  </event>
+</document>

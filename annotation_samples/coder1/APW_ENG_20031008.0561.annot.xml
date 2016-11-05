@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-08" DOCID="APW_ENG_20031008.0561">
+  <event_mention ID="T2">
+    <anchor>
+      <charseq START="117" END="124">protest</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T4">
+      <charseq START="148" END="165">earlier this year</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T3">
+      <charseq START="133" END="147">his government</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T1">
+      <charseq START="90" END="102">Henry Olonga</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T7">
+    <anchor>
+      <charseq START="263" END="272">protested</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T9">
+      <charseq START="316" END="321">March</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T10">
+      <charseq START="323" END="359">``mourning the death of democracy.''</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T8">
+      <charseq START="300" END="312">South Africa</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T6">
+      <charseq START="251" END="262">Andy Flower</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T5">
+      <charseq START="231" END="237">Olonga</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="0">
+    <action_form>Protest</action_form>
+    <location>Europe</location>
+    <date_range>
+      <start>2003-03-01</start>
+      <end>2003-03-31</end>
+      <approximate/>
+    </date_range>
+    <actors/>
+    <issues>
+      <issue>For democracy</issue>
+    </issues>
+    <size>1-9 people</size>
+    <comment>South Africa</comment>
+  </event>
+</document>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-29" DOCID="AFP_ENG_20030929.0379">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="3344" END="3357">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T4">
+      <charseq START="3385" END="3460">more government action to stem a long-term decline in British manufacturing</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="3361" END="3372">Bournemouth</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="3313" END="3328">trade unionists</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T7">
+    <anchor>
+      <charseq START="3498" END="3505">protest</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T6">
+      <charseq START="3473" END="3480">workers</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T5">
+      <charseq START="3462" END="3472">Some 2,500</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Demonstration</action_form>
+    <location>United Kingdom</location>
+    <date_range>
+      <start>2003-09-29</start>
+      <end>2003-09-29</end>
+    </date_range>
+    <actors>
+      <actor>Occupational group</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+      <issue>Economic protection &amp; regulation</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T1"/>
+    <link REFID="T7"/>
+  </event>
+</document>

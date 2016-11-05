@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-08" DOCID="APW_ENG_20031008.0561">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="108" END="114">staged</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T2">
+      <charseq START="148" END="165">earlier this year</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="69" END="77">Zimbabwe</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T4">
+      <charseq START="83" END="89">player</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T5">
+    <anchor>
+      <charseq START="263" END="272">protested</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T6">
+      <charseq START="316" END="321">March</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T7">
+      <charseq START="325" END="356">mourning the death of democracy</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Protest</action_form>
+    <location>Europe</location>
+    <date_range>
+      <start>2000-01-01</start>
+      <end>2015-12-31</end>
+      <approximate/>
+    </date_range>
+    <actors>
+      <actor>Intellectuals</actor>
+    </actors>
+    <issues>
+      <issue>For democracy</issue>
+    </issues>
+    <size>1-9 people</size>
+    <comment>Zimbabwe</comment>
+  </event>
+</document>

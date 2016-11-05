@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-22" DOCID="APW_ENG_20030922.0146">
+  <event_mention ID="T3">
+    <anchor>
+      <charseq START="116" END="124">released</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="132" END="151">middle of the night</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T6">
+      <charseq START="174" END="181">Finland</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="36" END="42">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="58" END="65">Finland</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T5">
+    <anchor>
+      <charseq START="195" END="201">attack</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="593" END="600">freeing</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T9">
+    <anchor>
+      <charseq START="846" END="852">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T10">
+      <charseq START="882" END="889">Kokkola</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T11">
+    <anchor>
+      <charseq START="979" END="985">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T12">
+      <charseq START="1008" END="1015">country</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T14">
+    <anchor>
+      <charseq START="1817" END="1822">freed</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T13">
+      <charseq START="1784" END="1791">Sept. 5</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T15">
+      <charseq START="1840" END="1851">Ringkoebing</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Confrontational non-violent action</action_form>
+    <location>Finland</location>
+    <date_range>
+      <start>2003-09-21</start>
+      <end>2003-09-21</end>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>Environmental protection</issue>
+    </issues>
+    <size/>
+    <comment/>
+    <link REFID="T3"/>
+    <link REFID="T4"/>
+    <link REFID="T5"/>
+    <link REFID="T8"/>
+    <link REFID="T9"/>
+    <link REFID="T11"/>
+  </event>
+  <event ID="2">
+    <action_form>Confrontational non-violent action</action_form>
+    <location>Denmark</location>
+    <date_range>
+      <start>2003-09-05</start>
+      <end>2003-09-05</end>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>Environmental protection</issue>
+    </issues>
+    <size/>
+    <comment/>
+    <link REFID="T14"/>
+  </event>
+</document>

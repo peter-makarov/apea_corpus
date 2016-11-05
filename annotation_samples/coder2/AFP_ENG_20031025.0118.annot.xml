@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-25" DOCID="AFP_ENG_20031025.0118">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="240" END="253">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T3">
+      <charseq START="122" END="130">Saturday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T2">
+      <charseq START="227" END="239">anti-nuclear</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="455" END="463">gathered</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T7">
+      <charseq START="398" END="402">Mons</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T5">
+      <charseq START="441" END="454">demonstrators</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T6">
+      <charseq START="430" END="440">some 1,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="640" END="653">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T9">
+      <charseq START="707" END="722">nuclear weapons</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T10">
+    <anchor>
+      <charseq START="1391" END="1398">protest</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T11">
+      <charseq START="1446" END="1453">Belgium</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T12">
+      <charseq START="1480" END="1486">people</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T13">
+      <charseq START="1476" END="1479">500</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T14">
+    <anchor>
+      <charseq START="946" END="950">demo</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T15">
+      <charseq START="908" END="919">Bomspotting</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Demonstration</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2003-10-25</start>
+      <end>2003-10-25</end>
+    </date_range>
+    <actors/>
+    <issues>
+      <issue>Against nuclear energy</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T8"/>
+    <link REFID="T4"/>
+    <link REFID="T1"/>
+    <link REFID="T14"/>
+  </event>
+  <event ID="2">
+    <action_form>Confrontational non-violent action</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2002-10-01</start>
+      <end>2002-10-31</end>
+      <approximate/>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>For peace</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T10"/>
+  </event>
+</document>

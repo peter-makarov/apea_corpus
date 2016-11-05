@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-04" DOCID="AFP_ENG_20031004.0386">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="249" END="256">clashes</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T2">
+      <charseq START="224" END="232">Saturday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T3">
+      <charseq START="276" END="289">demonstrators</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="1644" END="1650">battle</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T5">
+      <charseq START="1672" END="1685">demonstrators</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T6">
+      <charseq START="1656" END="1671">several hundred</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T7">
+    <anchor>
+      <charseq START="2037" END="2050">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T11">
+      <charseq START="2018" END="2036">anti-globalisation</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T10">
+      <charseq START="2101" END="2121">European enlargement</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T9">
+      <charseq START="2063" END="2069">people</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T8">
+      <charseq START="2056" END="2062">70,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T12">
+    <anchor>
+      <charseq START="2220" END="2225">march</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T13">
+      <charseq START="2233" END="2237">city</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T15">
+      <charseq START="2268" END="2274">people</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T14">
+      <charseq START="2260" END="2267">200,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Political violence</action_form>
+    <location>Italy</location>
+    <date_range>
+      <start>2003-10-04</start>
+      <end>2003-10-04</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment>anti-EU</comment>
+    <link REFID="T4"/>
+    <link REFID="T1"/>
+  </event>
+  <event ID="2">
+    <action_form>Demonstration</action_form>
+    <location>Italy</location>
+    <date_range>
+      <start>2003-10-04</start>
+      <end>2003-10-04</end>
+    </date_range>
+    <actors>
+      <actor>Trade union</actor>
+    </actors>
+    <issues>
+      <issue>Against globalization</issue>
+    </issues>
+    <size>10,000 or more people</size>
+    <comment/>
+    <link REFID="T12"/>
+    <link REFID="T7"/>
+  </event>
+</document>

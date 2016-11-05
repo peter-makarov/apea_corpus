@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-10" DOCID="AFP_ENG_20030910.0082">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="135" END="141">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T3">
+      <charseq START="119" END="128">Wednesday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="145" END="154">Stockholm</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T5">
+    <anchor>
+      <charseq START="338" END="345">injured</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T4">
+      <charseq START="387" END="396">assailant</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="923" END="936">assassination</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="1028" END="1032">1986</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T8">
+      <charseq START="1015" END="1024">Stockholm</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T10">
+    <anchor>
+      <charseq START="1844" END="1851">assault</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T9">
+      <charseq START="1751" END="1759">attacker</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T11">
+    <anchor>
+      <charseq START="1935" END="1943">incident</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T12">
+    <anchor>
+      <charseq START="2090" END="2096">attack</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T13">
+    <anchor>
+      <charseq START="2210" END="2216">attack</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T14">
+    <anchor>
+      <charseq START="25" END="32">stabbed</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T15">
+      <charseq START="36" END="45">Stockholm</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Gruesome violence</action_form>
+    <location>Sweden</location>
+    <date_range>
+      <start>2003-09-10</start>
+      <end>2003-09-10</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size>1-9 people</size>
+    <comment/>
+    <link REFID="T1"/>
+    <link REFID="T5"/>
+    <link REFID="T10"/>
+    <link REFID="T11"/>
+    <link REFID="T12"/>
+    <link REFID="T13"/>
+    <link REFID="T14"/>
+  </event>
+  <event ID="2">
+    <action_form>Gruesome violence</action_form>
+    <location>Sweden</location>
+    <date_range>
+      <start>1986-01-01</start>
+      <end>1986-12-31</end>
+      <approximate/>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T6"/>
+  </event>
+</document>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-26" DOCID="APW_ENG_20030926.0454">
+  <event_mention ID="T3">
+    <anchor>
+      <charseq START="141" END="148">blocked</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T5">
+      <charseq START="177" END="183">Friday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T6">
+      <charseq START="198" END="235">to step up pressure on the government</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T4">
+      <charseq START="167" END="173">Poland</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="102" END="108">miners</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="256" END="263">workers</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T1">
+      <charseq START="86" END="96">Some 2,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="268" END="275">blocked</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T10">
+    <anchor>
+      <charseq START="314" END="323">paralyzed</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T9">
+      <charseq START="376" END="384">Katowice</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T11">
+      <charseq START="307" END="313">Miners</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T12">
+    <anchor>
+      <charseq START="488" END="495">protest</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T13">
+      <charseq START="532" END="548">planned closures</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T14">
+      <charseq START="499" END="505">miners</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T15">
+    <anchor>
+      <charseq START="644" END="649">waved</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T16">
+      <charseq START="628" END="638">protesters</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T17">
+    <anchor>
+      <charseq START="778" END="785">blocked</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T18">
+      <charseq START="770" END="777">workers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T19">
+    <anchor>
+      <charseq START="1512" END="1520">blocking</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T20">
+      <charseq START="1533" END="1541">Katowice</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T21">
+    <anchor>
+      <charseq START="1632" END="1637">block</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T22">
+      <charseq START="1649" END="1655">Polish</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T23">
+      <charseq START="1604" END="1610">Miners</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T24">
+    <anchor>
+      <charseq START="20" END="29">blockades</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T27">
+      <charseq START="53" END="65">pit closures</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T26">
+      <charseq START="0" END="6">Polish</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T25">
+      <charseq START="7" END="13">miners</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Occupation / Blockade</action_form>
+    <location>Poland</location>
+    <date_range>
+      <start>2003-09-26</start>
+      <end>2003-09-26</end>
+    </date_range>
+    <actors>
+      <actor>Occupational group</actor>
+    </actors>
+    <issues>
+      <issue>For labour rights</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T3"/>
+    <link REFID="T8"/>
+    <link REFID="T10"/>
+    <link REFID="T12"/>
+    <link REFID="T15"/>
+    <link REFID="T17"/>
+    <link REFID="T19"/>
+    <link REFID="T21"/>
+    <link REFID="T24"/>
+  </event>
+</document>

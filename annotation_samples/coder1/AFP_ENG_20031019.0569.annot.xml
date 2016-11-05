@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-19" DOCID="AFP_ENG_20031019.0569">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="26" END="32">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="36" END="42">French</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T3">
+    <anchor>
+      <charseq START="167" END="177">assaulting</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="182" END="190">injuring</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T5">
+      <charseq START="234" END="239">Paris</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="140" END="143">men</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T6">
+      <charseq START="136" END="139">two</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="453" END="461">injuring</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Actor" ID="T14">
+      <charseq START="390" END="393">men</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T9">
+    <anchor>
+      <charseq START="272" END="280">insulted</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T12">
+      <charseq START="373" END="384">last Friday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T13">
+      <charseq START="361" END="372">Ris-Orangis</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T11">
+      <charseq START="300" END="303">men</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T10">
+      <charseq START="295" END="299">four</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T15">
+    <anchor>
+      <charseq START="945" END="953">incident</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T16">
+      <charseq START="822" END="863">a racially or religiously motivated crime</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T17">
+      <charseq START="703" END="708">Paris</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T18">
+      <charseq START="784" END="790">driver</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T19">
+      <charseq START="808" END="817">passenger</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T20">
+    <anchor>
+      <charseq START="1418" END="1424">attack</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T21">
+      <charseq START="1528" END="1552">racism and anti-Semitism</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Gruesome violence</action_form>
+    <location>France</location>
+    <date_range>
+      <start>2003-10-17</start>
+      <end>2003-10-17</end>
+    </date_range>
+    <actors/>
+    <issues>
+      <issue>Civil rights</issue>
+    </issues>
+    <size>1-9 people</size>
+    <comment>Religious intolerance</comment>
+    <link REFID="T1"/>
+    <link REFID="T3"/>
+    <link REFID="T4"/>
+    <link REFID="T8"/>
+    <link REFID="T9"/>
+    <link REFID="T15"/>
+    <link REFID="T20"/>
+  </event>
+</document>

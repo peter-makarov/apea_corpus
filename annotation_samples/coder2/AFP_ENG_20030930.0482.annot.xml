@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-30" DOCID="AFP_ENG_20030930.0482">
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="781" END="790">detonated</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T5">
+      <charseq START="732" END="749">Overnight Tuesday</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="1452" END="1458">thrown</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T7">
+      <charseq START="1412" END="1429">Some hours before</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="240" END="249">detonated</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T3">
+      <charseq START="264" END="273">overnight</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="257" END="263">Athens</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="52" END="57">bombs</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T9">
+      <charseq START="42" END="51">overnight</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T10">
+      <charseq START="0" END="6">Greece</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Gruesome violence</action_form>
+    <location>Greece</location>
+    <date_range>
+      <start>2003-09-30</start>
+      <end>2003-09-30</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T4"/>
+    <link REFID="T1"/>
+    <link REFID="T8"/>
+  </event>
+  <event ID="2">
+    <action_form>Gruesome violence</action_form>
+    <location>Greece</location>
+    <date_range>
+      <start>2003-09-30</start>
+      <end>2003-09-30</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T6"/>
+  </event>
+</document>

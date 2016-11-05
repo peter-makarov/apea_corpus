@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-18" DOCID="APW_ENG_20031018.0305">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="39" END="44">rally</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T2">
+      <charseq START="27" END="38">anti-racism</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T3">
+      <charseq START="14" END="20">Greece</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T4">
+      <charseq START="0" END="10">Immigrants</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T10">
+    <anchor>
+      <charseq START="173" END="178">rally</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T11">
+    <anchor>
+      <charseq START="130" END="137">marched</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T9">
+      <charseq START="161" END="169">Saturday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T12">
+      <charseq START="187" END="193">racism</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T8">
+      <charseq START="154" END="160">Athens</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="120" END="129">activists</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T6">
+      <charseq START="81" END="91">immigrants</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T5">
+      <charseq START="65" END="80">More than 2,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T14">
+    <anchor>
+      <charseq START="195" END="203">Chanting</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T13">
+      <charseq START="295" END="361">to simplify lengthy procedures needed to obtain a residence permit</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T15">
+      <charseq START="207" END="212">Greek</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T16">
+      <charseq START="256" END="269">demonstrators</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Demonstration</action_form>
+    <location>Greece</location>
+    <date_range>
+      <start>2003-10-18</start>
+      <end>2003-10-18</end>
+    </date_range>
+    <actors>
+      <actor>Migrants / foreigners / refugees</actor>
+      <actor>Trade union</actor>
+    </actors>
+    <issues>
+      <issue>For immigration</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T1"/>
+    <link REFID="T10"/>
+    <link REFID="T11"/>
+    <link REFID="T14"/>
+  </event>
+</document>

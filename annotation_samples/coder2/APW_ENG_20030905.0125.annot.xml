@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-09-05" DOCID="APW_ENG_20030905.0125">
+  <event_mention ID="T1">
+    <anchor>
+      <charseq START="6" END="13">explode</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T2">
+      <charseq START="39" END="45">Athens</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T3">
+    <anchor>
+      <charseq START="111" END="119">exploded</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T5">
+      <charseq START="150" END="156">Friday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Location" ID="T4">
+      <charseq START="123" END="129">Athens</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T6">
+    <anchor>
+      <charseq START="1081" END="1087">placed</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T8">
+      <charseq START="1210" END="1214">July</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T7">
+      <charseq START="1121" END="1149">Popular Revolutionary Action</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event ID="1">
+    <action_form>Political violence</action_form>
+    <location>Greece</location>
+    <date_range>
+      <start>2003-09-05</start>
+      <end>2003-09-05</end>
+    </date_range>
+    <actors/>
+    <issues/>
+    <size/>
+    <comment/>
+    <link REFID="T3"/>
+    <link REFID="T1"/>
+  </event>
+  <event ID="2">
+    <action_form>Political violence</action_form>
+    <location>Greece</location>
+    <date_range>
+      <start>2003-07-01</start>
+      <end>2003-07-31</end>
+      <approximate/>
+    </date_range>
+    <actors>
+      <actor>Organization</actor>
+    </actors>
+    <issues>
+      <issue>Against globalization</issue>
+    </issues>
+    <size/>
+    <comment/>
+    <link REFID="T6"/>
+  </event>
+</document>

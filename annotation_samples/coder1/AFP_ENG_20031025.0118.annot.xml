@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf8'?>
+<document PUBLICATION_DATE="2003-10-25" DOCID="AFP_ENG_20031025.0118">
+  <event_mention ID="T4">
+    <anchor>
+      <charseq START="137" END="145">breaking</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T5">
+    <anchor>
+      <charseq START="240" END="253">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Date" ID="T3">
+      <charseq START="122" END="130">Saturday</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Issue" ID="T6">
+      <charseq START="227" END="239">anti-nuclear</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T2">
+      <charseq START="97" END="107">protestors</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T1">
+      <charseq START="90" END="96">Twelve</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T8">
+    <anchor>
+      <charseq START="455" END="463">gathered</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T7">
+      <charseq START="398" END="402">Mons</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T9">
+      <charseq START="441" END="454">demonstrators</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T10">
+      <charseq START="435" END="440">1,000</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T11">
+    <anchor>
+      <charseq START="640" END="653">demonstration</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T13">
+      <charseq START="707" END="722">nuclear weapons</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T12">
+      <charseq START="660" END="670">organizers</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T14">
+    <anchor>
+      <charseq START="946" END="950">demo</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Issue" ID="T16">
+      <charseq START="724" END="873">"The aim of this action is to carry out civilian inspections on the SHAPE compound to look for proof of preparations for the use of nuclear weapons,"</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T15">
+      <charseq START="908" END="919">Bomspotting</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T17">
+    <anchor>
+      <charseq START="1358" END="1362">demo</charseq>
+    </anchor>
+  </event_mention>
+  <event_mention ID="T18">
+    <anchor>
+      <charseq START="1391" END="1398">protest</charseq>
+    </anchor>
+    <event_mention_argument ROLE="Location" ID="T19">
+      <charseq START="1446" END="1453">Belgium</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Actor" ID="T21">
+      <charseq START="1480" END="1486">people</charseq>
+    </event_mention_argument>
+    <event_mention_argument ROLE="Size" ID="T20">
+      <charseq START="1476" END="1479">500</charseq>
+    </event_mention_argument>
+  </event_mention>
+  <event_mention ID="T22">
+    <anchor>
+      <charseq START="1605" END="1618">demonstration</charseq>
+    </anchor>
+  </event_mention>
+  <event ID="1">
+    <action_form>Demonstration</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2003-10-25</start>
+      <end>2003-10-25</end>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>For peace</issue>
+    </issues>
+    <size>1,000-9,999 people</size>
+    <comment/>
+    <link REFID="T4"/>
+  </event>
+  <event ID="2">
+    <action_form>Occupation / Blockade</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2003-10-25</start>
+      <end>2003-10-25</end>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>For peace</issue>
+    </issues>
+    <size>10-49 people</size>
+    <comment/>
+    <link REFID="T5"/>
+    <link REFID="T8"/>
+    <link REFID="T11"/>
+    <link REFID="T14"/>
+    <link REFID="T17"/>
+    <link REFID="T4"/>
+    <link REFID="T22"/>
+  </event>
+  <event ID="3">
+    <action_form>Demonstration</action_form>
+    <location>Belgium</location>
+    <date_range>
+      <start>2002-10-19</start>
+      <end>2002-10-26</end>
+      <approximate/>
+    </date_range>
+    <actors>
+      <actor>Left-libertarians</actor>
+    </actors>
+    <issues>
+      <issue>For peace</issue>
+    </issues>
+    <size>100-999 people</size>
+    <comment/>
+    <link REFID="T18"/>
+  </event>
+</document>
