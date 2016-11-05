@@ -1,1 +1,1 @@
-# Annotated Protest Analysis Corpus
+# Corpus for Automated Protest Event Analysis
